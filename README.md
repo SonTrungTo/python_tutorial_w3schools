@@ -2,7 +2,7 @@
 
 Source: [W3schools](https://www.w3schools.com/python/)
 
-Topics include: basic syntax, Python libraries and Python for SQL.
+Topics include: basic syntax, up to reading and writing files.
 
 ## Python can be used for,
 - Software dev (server-side/deployment/workflows)
